@@ -133,4 +133,14 @@ List endpoints support query parameters: `name`, `email`, `address`, `role` (use
 
 ## Screenshots
 
-(Add screenshots here: login, admin dashboard, stores list, owner dashboard.)
+### Login
+![Login](docs/screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+### Stores (Normal User)
+![Stores](docs/screenshots/user-stores.png)
+
+### Store Owner Dashboard
+![Owner Dashboard](docs/screenshots/owner-dashboard.png)
