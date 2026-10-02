@@ -134,13 +134,13 @@ List endpoints support query parameters: `name`, `email`, `address`, `role` (use
 ## Screenshots
 
 ### Login
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshots/login.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+![Admin Dashboard](docs/screenshots/admin-dashboard.jpg)
 
 ### Stores (Normal User)
-![Stores](docs/screenshots/user-stores.png)
+![Stores](docs/screenshots/user-stores.jpg)
 
 ### Store Owner Dashboard
-![Owner Dashboard](docs/screenshots/owner-dashboard.png)
+![Owner Dashboard](docs/screenshots/owner-dashboard.jpg)
